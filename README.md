@@ -1,4 +1,4 @@
-# Website
+# Website - Not working, will be fix soon. 
 
 ## Instalation
 
@@ -7,12 +7,19 @@ $ sudo apt-get install python-pip python-virtualenv virtualenvwrapper
 $ sudo apt-get install python-dev
 ```
 ```
-$ pip install pelican markdown
+$ sudo pip install pelican markdown
 ```
+
 ## Github configuration
 
 ```
 $ git clone https://github.com/Medivisu/Website.git
+```
+
+## Pelican configuration
+Download the nest theme at <https://github.com/molivier/nest> and put it in 
+```
+/usr/local/lib/python2.7/dist-packages/pelican/themes/
 ```
 
 ## Create an article
