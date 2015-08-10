@@ -1,4 +1,4 @@
-# Website - Not working, will be fix soon. 
+# Website - Working
 
 ## Instalation (do only once)
 
@@ -43,8 +43,7 @@ $ pelican content/
 ```
 ### Publish
 
-A
-
 ```
+$ cd ~/Website
 $ make github
 ```
