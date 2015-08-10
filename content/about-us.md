@@ -3,7 +3,7 @@ Date: 2015-08-09
 Category: Team
 Tags: team
 
-We are five students at Ecole Supérieur d'informatique of Brussels (ESI) and also Nicolas Pettiaux.
+We are five students and a teacher at Ecole Supérieur d'informatique of Brussels (ESI).
 
 
 ###Nicolas PETTIAUX
