@@ -45,6 +45,7 @@ $ pelican content/
 
 ```
 $ cd ~/Website
+$ git commit -m -a 'add article'
 $ git push origin master
 $ make github
 ```
