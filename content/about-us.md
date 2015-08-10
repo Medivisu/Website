@@ -7,7 +7,6 @@ We are five students at Ecole Supérieur d'informatique of Brussels (ESI) and al
 
 
 ###Nicolas PETTIAUX
-<!---![nico](../image/Nicolas-Pettiaux.png)-->
 **Project's initiator and project's manager**
 
 Teacher of computing sciences, mathematics and physics.
