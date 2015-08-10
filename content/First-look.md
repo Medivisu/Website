@@ -7,4 +7,4 @@ Tags: news, screen
 
 After three weeks of development we are proud to show you a (very) early version of the interface of MediVisu's database. Hope you'll enjoy it ;)
 
-![database](../image/First_Look.png)
+![database](http://medivisu.github.io/Website/image/First_Look.png)

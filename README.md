@@ -45,5 +45,6 @@ $ pelican content/
 
 ```
 $ cd ~/Website
+$ git push origin master
 $ make github
 ```
