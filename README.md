@@ -7,7 +7,7 @@ $ sudo apt-get install python-pip python-virtualenv virtualenvwrapper
 $ sudo apt-get install python-dev
 ```
 ```
-$ pip install pelican markdown
+$ sudo pip install pelican markdown
 ```
 ## Github configuration
 
