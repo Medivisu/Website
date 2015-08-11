@@ -20,5 +20,5 @@ Free software, free culture, open education, open data, collaborative developpem
 
 ###Florian KNOP
 
-###Guillaume 
+###Guillaume DUFOUR
 
