@@ -51,7 +51,7 @@ NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
 NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
 NEST_LINKS_COLUMN_TITLE = u'Links'
-NEST_COPYRIGHT = u'(ɔ) MediVisu 2015 - ('CC BY SA','https://creativecommons.org/licenses/by-sa/3.0/')'
+NEST_COPYRIGHT = u'(ɔ) MediVisu 2015 - CC BY SA'
 # Footer optional
 NEST_FOOTER_HTML = ''
 # index.html
