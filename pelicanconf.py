@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Orthanc', 'http://www.orthanc-server.com/'),('Slice','http://slicer.org'),('Fw4spl','http://fw4spl-org.github.io/fw4spl-blog/'))
+LINKS = (('Orthanc', 'http://www.orthanc-server.com/'),('Slicer','http://slicer.org'),('Fw4spl','http://fw4spl-org.github.io/fw4spl-blog/'))
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/medivisu'),
