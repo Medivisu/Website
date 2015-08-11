@@ -53,7 +53,7 @@ NEST_SOCIAL_COLUMN_TITLE = u'Social'
 NEST_LINKS_COLUMN_TITLE = u'Links'
 NEST_COPYRIGHT = u'(ɔ) MediVisu 2015'
 # Footer optional
-NEST_FOOTER_HTML = ('CC-BY-SA','https://creativecommons.org/licenses/by-sa/3.0/')
+NEST_FOOTER_HTML = 'https://creativecommons.org/licenses/by-sa/3.0/'
 # index.html
 NEST_INDEX_HEAD_TITLE = u'Homepage'
 NEST_INDEX_HEADER_TITLE = u'MediVisu'
