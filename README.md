@@ -17,9 +17,13 @@ $ git clone https://github.com/Medivisu/Website.git
 ```
 
 ### Pelican configuration
-Download the nest theme at <https://github.com/molivier/nest>, unzip it, rename to *nest* and put it in 
+Download the nest theme at <https://github.com/molivier/nest> and unzip it, or  
 ```
-/usr/local/lib/python2.7/dist-packages/pelican/themes/
+git clone git@github.com:molivier/nest.git
+```
+, rename to *nest* and put it in 
+```
+
 ```
 
 ## Create an article

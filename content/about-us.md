@@ -3,8 +3,9 @@ Date: 2015-08-09
 Category: Team
 Tags: team
 
-We are five students and a teacher at Ecole Supérieur d'informatique of Brussels (ESI).
+The close team is composed of five students and a teacher of [Ècole Supérieur d'informatique of Brussels](http://heb.be/esi) (ESI), with many external collaborations.
 
+##Close team
 
 ###Nicolas PETTIAUX
 **Project's initiator and project's manager**
@@ -21,4 +22,8 @@ Free software, free culture, open education, open data, collaborative developpem
 ###Florian KNOP
 
 ###Guillaume DUFOUR
+
+##Collaborations
+
+###Dr Marc ROYER
 
