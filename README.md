@@ -21,9 +21,9 @@ Download the nest theme at <https://github.com/molivier/nest> and unzip it, or
 ```
 git clone git@github.com:molivier/nest.git
 ```
-, rename to *nest* and put it in 
+After, rename to *nest* and put it in 
 ```
-
+/usr/local/lib/python2.7/dist-packages/pelican/themes/
 ```
 
 ## Create an article
